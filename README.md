@@ -1,2 +1,3 @@
 # Mailchimp_Campaign_Reporting
-A method to generate mailchimp email performance reports using Python and Bash.
+Using Mailchimp's API to generate email performance reports using Python and Bash.
+The full article is available at kylelyon.co/https://kylelyon.co/automate-mailchimp-reports-with-python-bash-api/
